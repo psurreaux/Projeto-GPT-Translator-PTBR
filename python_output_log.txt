@@ -1,0 +1,2 @@
+Selected text: Subir seu projeto no GitHub é uma ótima maneira de compartilhar, colaborar e manter o controle de versões. Aqui estão algumas melhores práticas para organizar seu projeto no GitHub, especialmente quando se trata de um projeto que envolve scripts como AutoHotkey e Python:
+Result: Uploading your project to GitHub is a great way to share, collaborate, and keep track of versions. Here are some best practices for organizing your project on GitHub, especially when it comes to a project involving scripts like AutoHotkey and Python:

@@ -1,0 +1,1 @@
+Uploading your project to GitHub is a great way to share, collaborate, and keep track of versions. Here are some best practices for organizing your project on GitHub, especially when it comes to a project involving scripts like AutoHotkey and Python:
